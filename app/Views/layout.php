@@ -64,9 +64,9 @@ if (uri_string() != "") {
                     }
                     ?>
                 </ol>
-                <a type="button" class="btn btn-outline-primary" href="/">Home</a>
+                <!-- <a type="button" class="btn btn-outline-primary" href="/">Home</a>
                 <a type="button" class="btn btn-outline-secondary" href="/produk">Produk</a>
-                <a type="button" class="btn btn-outline-success" href="/keranjang">Keranjang</a>
+                <a type="button" class="btn btn-outline-success" href="/keranjang">Keranjang</a> -->
             </nav>
         </div><!-- End Page Title -->
 
